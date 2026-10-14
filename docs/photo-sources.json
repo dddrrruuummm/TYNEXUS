@@ -1,0 +1,101 @@
+[
+  {
+    "file": "public/images/hero.webp",
+    "creator": "Brett Sayles",
+    "source": "https://www.pexels.com/photo/server-racks-on-data-center-4508751/",
+    "download": "https://images.pexels.com/photos/4508751/pexels-photo-4508751.jpeg?auto=compress&cs=tinysrgb&w=2000",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 2000,
+    "height": 1333,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/rackmount.webp",
+    "creator": "panumas nikhomkhai",
+    "source": "https://www.pexels.com/photo/server-rack-in-modern-data-center-37605910/",
+    "download": "https://images.pexels.com/photos/37605910/pexels-photo-37605910.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 798,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/server-leasing.webp",
+    "creator": "Brett Sayles",
+    "source": "https://www.pexels.com/photo/black-server-racks-5203849/",
+    "download": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 1804,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/compute-rental.webp",
+    "creator": "Brett Sayles",
+    "source": "https://www.pexels.com/photo/server-racks-on-data-center-5480781/",
+    "download": "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 798,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/cabinets.webp",
+    "creator": "panumas nikhomkhai",
+    "source": "https://www.pexels.com/photo/computer-server-in-data-center-room-17489160/",
+    "download": "https://images.pexels.com/photos/17489160/pexels-photo-17489160.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 801,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/cables.webp",
+    "creator": "Brett Sayles",
+    "source": "https://www.pexels.com/photo/cables-connected-on-server-2881229/",
+    "download": "https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 798,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/network.webp",
+    "creator": "Brett Sayles",
+    "source": "https://www.pexels.com/photo/ethernet-cables-plugged-in-network-switch-2881224/",
+    "download": "https://images.pexels.com/photos/2881224/pexels-photo-2881224.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 798,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/hardware-detail.webp",
+    "creator": "Athena",
+    "source": "https://www.pexels.com/photo/selective-focus-photography-of-heatsink-1432797/",
+    "download": "https://images.pexels.com/photos/1432797/pexels-photo-1432797.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 800,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  },
+  {
+    "file": "public/images/home-detail.webp",
+    "creator": "Pixabay",
+    "source": "https://www.pexels.com/photo/close-up-of-network-server-325229/",
+    "download": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-14",
+    "width": 1200,
+    "height": 420,
+    "usage": "Category/editorial photograph; not TY Nexus facilities or verified inventory."
+  }
+]

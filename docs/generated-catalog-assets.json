@@ -1,0 +1,44 @@
+[
+  {
+    "asset": "public/images/rtx5090-accelerator.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-50b16fd2-da10-4f5a-92cf-257d6864c691.png",
+    "prompt": "Photorealistic catalog product photograph of a single unbranded high-end GeForce RTX 5090-class consumer PCIe graphics card, generic board-partner style and not an exact manufacturer design. Entire standalone graphics card visible, three black axial fans on a substantial graphite-gray metal shroud, realistic aluminum cooling fins, gold PCIe connector and metal rear bracket. Three-quarter view from above on a neutral cool-gray seamless studio surface, soft daylight, natural contact shadow and authentic hardware texture. Landscape 4:3 with generous space around the whole card. No server chassis, people, logos, labels, readable text, RGB, watermark or floating parts. This is a hardware-category illustration for a server inquiry catalog."
+  },
+  {
+    "asset": "public/images/b300-accelerator.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-a0ca668e-1acd-4551-b9dd-7da196cd0ae5.png",
+    "prompt": "Photorealistic industrial catalog product photograph of one unbranded SXM-class AI accelerator module, an illustrative hardware category for a B300-based server direction, not an exact certified NVIDIA product. A compact rectangular dark-green PCB module with a substantial precision-machined copper cooling plate on top, small components and fastening screws along its perimeter, realistic mounting holes and fine copper material texture. Viewed at a gentle three-quarter angle, entire module visible on a neutral cool-gray seamless studio floor with ample clear margins. Soft neutral daylight and natural contact shadow. Landscape 4:3. Do not show a consumer fan-cooled graphics card, PCIe bracket, complete server, text, logos, watermark, glowing circuits, detached chips or floating pieces."
+  },
+  {
+    "asset": "public/images/rtxpro6000-accelerator.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-22441c6b-8b01-4b46-ab62-1b5b89d144d7.png",
+    "prompt": "Photorealistic studio catalog photograph of a single unbranded professional server-edition PCIe GPU accelerator, generic RTX PRO 6000 Blackwell-class category rather than an exact manufacturer model. Long black dual-slot rectangular accelerator with passive longitudinal metal cooling fins and a clean black protective shroud, small mounting screws, visible gold PCIe edge connector and thin metal bracket, no consumer axial fans. Entire object seen at three-quarter front-right angle on a cool-gray seamless studio floor, generous margins, neutral daylight and natural contact shadow, authentic metal edges and surface detail. Landscape 4:3. No logos, model text, labels, neon, watermarks, server chassis, people or floating parts."
+  },
+  {
+    "asset": "public/images/h200-accelerator.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-249e62bb-336b-4caa-b382-9fcbd719f823.png",
+    "prompt": "Photorealistic industrial catalog product photograph of a standalone generic H200-NVL-class PCIe data-center accelerator, not an exact manufacturer SKU. Silver and copper passive finned heatsink on a dark-green PCIe PCB, long two-slot form factor, realistic gold edge connector, sturdy ventilated metal mounting bracket, small fasteners. Three-quarter view from the opposite side to a black professional GPU photograph, entire accelerator visible on pale cool-gray seamless studio surface with generous margins. Neutral daylight, realistic milled metal, crisp fin geometry and a grounded natural shadow. Landscape 4:3. No fans, logos, text, readable labels, RGB, watermark, people, server chassis or floating components."
+  },
+  {
+    "asset": "public/images/company-rack-room.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-964d2641-03d6-40d6-b255-d075bef9cd1d.png",
+    "prompt": "Photorealistic wide architectural photograph for the Company page of an enterprise server sales and compute business. Modern clean server equipment room photographed obliquely from the side rather than straight down a central aisle. A long bank of black full-height rack cabinets recedes diagonally toward the right, visible metal mesh doors, densely installed real-looking server equipment, tidy overhead cable trays, pale industrial floor. Left foreground has dark cabinet panels that leave a quiet area for white website text. Natural industrial lighting, neutral metal colors, authentic details, moderate documentary contrast. Landscape 16:9, no extreme darkness, no blur, no lens bloom, people, logos, text, neon, holograms or brand badges. Generic industry environment, not a claimed company-owned facility."
+  },
+  {
+    "asset": "public/images/solutions-rear-connectivity.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-6959d4e2-d82a-4d4e-985a-0a4242ca505e.png",
+    "prompt": "Photorealistic wide editorial photograph for a server solutions website hero. Rear of a real-looking installed rackmount server system and tidy network patch connections, metal power supplies, ventilation grilles, blue and black Ethernet leads and some thin fiber connections. Professional data-center installation, close enough to see hardware details but enough depth to read the rack environment. Equipment concentrated on the right half, darker uncluttered rack metal on the left as a quiet background for website text. Realistic cable bends and connectors, no impossible wires, authentic metallic surfaces under neutral task lighting. Landscape 16:9. No readable text, logos, people, neon, exaggerated glowing lights, blur, watermarks, holograms or schematic overlays. Generic equipment environment, not a claimed customer installation."
+  }
+]

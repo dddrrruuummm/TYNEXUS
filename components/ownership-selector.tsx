@@ -1,0 +1,7 @@
+"use client";
+import {useState} from "react";
+import Link from "next/link";
+import {ArrowUpRight,Check} from "lucide-react";
+import {modes,contactHref} from "@/lib/site";
+import {Button} from "./ui/button";
+export function OwnershipSelector(){const [active,setActive]=useState(0);const mode=modes[active];return <section className="ownership" id="ownership"><div className="shell ownership-heading"><h2>Choose how<br/>you compute.</h2><p>Buy the hardware. Rent capacity. Lease a server.<br/>Different routes, one clearly defined brief.</p></div><div className="shell"><div className="ownership-tabs" role="group" aria-label="Choose a compute arrangement">{modes.map((item,index)=><button key={item.id} type="button" aria-pressed={active===index} onClick={()=>setActive(index)}>{item.label}<ArrowUpRight size={18}/></button>)}</div><div className="ownership-content" aria-live="polite"><div><h3>{mode.title}</h3><p>{mode.description}</p><Button asChild><Link href={contactHref(mode.interest)}>Discuss {mode.interest.toLowerCase()} <ArrowUpRight size={18}/></Link></Button><div><Link className="text-link gpu-index-link" href="/pricing/#gpu-servers">Explore GPU servers & pricing <ArrowUpRight size={17}/></Link></div></div><div className="brief-requirements"><p>What we&apos;ll align</p><ul>{mode.brief.map(item=><li key={item}><Check size={17} aria-hidden="true"/>{item}</li>)}</ul></div></div></div></section>;}

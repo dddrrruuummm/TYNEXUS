@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "public/images/rtx5090-server.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-1a4834ae-c58a-4bf5-83d3-f8fc32fb1930.png",
+    "prompt": "Photorealistic product catalog photograph for an English enterprise server website. One unbranded GPU compute server suitable for RTX 5090-class PCIe accelerators: realistic deep 4U black rackmount chassis, three-quarter front-left view, front rack ears, dense ventilation and eight drive bays, top service panel removed so two large dual-slot black fan-cooled GPU cards and ducted CPU coolers are visible inside. Entire unit fits inside frame with generous margins. Light cool-gray seamless studio surface, soft daylight, true brushed metal, believable screws and cable routing, subtle natural contact shadow. Hardware configuration illustration, not an exact manufacturer's model. Landscape 4:3. No labels, text, logos, neon, RGB, extra objects, hands or floating components."
+  },
+  {
+    "asset": "public/images/b300-server.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-c3004c73-9ecb-42af-b65e-6b8ad9a9a422.png",
+    "prompt": "Photorealistic product catalog photograph of one unbranded high-density AI accelerator server configured conceptually for B300 SXM-class compute. A substantial closed 8U 19-inch rackmount chassis, viewed low from front-right, dense black ventilation grilles across upper front, silver rack ears, neat lower front drive bay rows and inset dark rectangular management panel with no readable text. A deep satin silver side enclosure is visible. Entire server on a pale cool-gray seamless studio floor, soft side daylight, realistic stamped metal seams and fine screw heads, subtle wear-free manufacturing texture and grounded contact shadow. Different physical silhouette from a smaller 4U PCIe server. Generic whole-system configuration illustration, not NVIDIA DGX and not a certified design. Landscape 4:3, full object with generous margins. No logos, text, watermark, RGB lights, floating objects, glass or people."
+  },
+  {
+    "asset": "public/images/rtxpro6000-server.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-0ea456b1-c4a6-4541-b412-d6ad546adc13.png",
+    "prompt": "Photorealistic clean industrial product photograph of one unbranded professional GPU rack server suitable conceptually for RTX PRO 6000 Blackwell Server Edition PCIe accelerators. Realistic 4U silver 19-inch chassis shown front-right slightly elevated, closed brushed aluminum top and side, black front panel with two broad perforated fan intake sections and a compact set of four front drive bays, rack mounting ears, tiny screws, deep chassis body. Entire equipment visible with generous margins, pale cool-gray seamless studio floor, diffuse daylight, authentic aluminum grain and steel edges, gentle grounded shadow. Distinct from an open GPU workstation and a tall 8U accelerator server. Configuration illustration, not an exact manufacturer product. Landscape 4:3. No brand, text, logos, watermark, RGB, neon, props or people."
+  },
+  {
+    "asset": "public/images/h200-server.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-1a30cacd-9ac8-48de-a4e3-d7896592acce.png",
+    "prompt": "Photorealistic industrial catalog photograph of one unbranded data-center AI compute server conceptually suitable for H200 accelerator configurations. A deep realistic closed 5U 19-inch rackmount silver chassis, viewed front-left at slight elevation, black segmented front grille with six round intake fans behind fine mesh, ten neatly aligned drive trays on lower front, rack ears and small metal handles, substantial solid matte silver top. Entire server fits with generous clear margins. Pale cool-gray seamless studio ground, neutral daylight and restrained studio fill, true sheet-metal seams, tiny screws, realistic perforation and contact shadow. Different silhouette and front panel from 4U professional PCIe server and 8U accelerator chassis. Generic configuration illustration, not a claimed certified server model. Landscape 4:3. No logos, text, neon, watermark, detached cards, people or surrounding rack."
+  },
+  {
+    "asset": "public/images/compute-datacenter.webp",
+    "tool": "Built-in image_gen",
+    "date": "2026-10-14",
+    "originalFilename": "exec-ce1fcf43-6436-4465-9a0c-f60d5e540728.png",
+    "prompt": "Photorealistic architectural photograph for the full-page background of an enterprise AI compute rental website. A real-looking large modern data-center cold aisle, long rows of tall black server rack cabinets on both sides, cabinet mesh and neatly installed equipment visible, overhead cable trays and cooling ducting, clean light-gray raised floor and linear white ceiling lights, cool neutral color temperature with a few authentic tiny status lights. Wide symmetrical composition with a strong central vanishing point, photographed at eye level with a professional wide-angle lens. Strong physical depth and accurate proportions, realistic metal and plastic texture. No people, readable labels, logos, fake screens, neon, cyberpunk, dramatic fog or stylized glowing circuits. Bright enough to inspect the racks; website will add its own dark overlay for text. Landscape wide 16:9, high-quality realistic photography, not illustration."
+  }
+]
